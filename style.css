@@ -2,8 +2,14 @@
   margin-left: auto;
 }
 
-body { background-color: lightblue
+body { 
+  background-color: lightblue
   }
 
-h2 { color: navy
+h2 { 
+  color: navy
    }
+
+nav { 
+  text-alight: right
+    }
